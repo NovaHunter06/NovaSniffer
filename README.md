@@ -7,7 +7,6 @@ NovaSniffer is a professional-grade Network Intelligence & Forensics tool. It pr
 - **Real-time Traffic Stream**: Monitor TCP, UDP, and ICMP traffic.
 - **Security Alerts**: Automatic detection of cleartext credentials.
 - **Intelligence Enrichment**: Built-in Geo-IP and ISP identification.
-- **Web Dashboard**: Modern HTML5 interface at `http://localhost:5000`.
 - **Forensics Ready**: Simultaneous binary (.pcap) and text (.txt) logging.
 
 ## 🚦 Usage
